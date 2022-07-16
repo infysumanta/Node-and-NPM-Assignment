@@ -1,0 +1,27 @@
+{
+  "name": "node-and-npm-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infysumanta/Node-and-NPM-Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infysumanta/Node-and-NPM-Assignment/issues"
+  },
+  "homepage": "https://github.com/infysumanta/Node-and-NPM-Assignment#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
